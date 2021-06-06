@@ -1,5 +1,4 @@
-
-public class Power {
+class Power {
 
 	public static void main(String[] args) {
 		int base = 3, exponent = 4;
